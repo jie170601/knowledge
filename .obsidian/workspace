@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "5d00b83e44cfb610",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0aeb01a2bc10c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习/1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed2b603fe900eb01",
+    "type": "split",
+    "children": [
+      {
+        "id": "512b0c6b607fde52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0a3989b006425c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e17945f00529bcde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72da0e9cf22639cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fc88bca1499a7b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c63307ebf58c9c55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习/1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ff0aeb01a2bc10c5",
+  "lastOpenFiles": [
+    "学习/1.md",
+    "学习/2.md",
+    "学习/3.md",
+    "学习/未命名.md"
+  ]
+}
