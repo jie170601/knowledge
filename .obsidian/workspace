@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nodejs/sqlite3.md",
-            "mode": "source"
+            "file": "css/选择器.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "72da0e9cf22639cc",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/sqlite3.md",
+                "file": "css/选择器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,9 @@
   },
   "active": "ff0aeb01a2bc10c5",
   "lastOpenFiles": [
+    "css/选择器.md",
+    "css/未命名.md",
+    "nodejs/sqlite3.md",
     "nodejs/未命名.md",
     "学习/1.md",
     "学习/2.md",
