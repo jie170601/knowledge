@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "css/选择器.md",
-            "mode": "preview"
+            "file": "redis/分布式锁.md",
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "72da0e9cf22639cc",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/选择器.md",
+                "file": "redis/分布式锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +88,15 @@
   },
   "active": "ff0aeb01a2bc10c5",
   "lastOpenFiles": [
+    "redis/未命名.md",
+    "数据库/锁/行级锁.md",
+    "多线程/未命名.md",
+    "数据库/锁/未命名.md",
+    "多线程/线程安全.md",
+    "java/未命名.md",
+    "学习方法论/语言学习.md",
+    "学习方法论/未命名.md",
     "css/选择器.md",
-    "css/未命名.md",
-    "nodejs/sqlite3.md",
-    "nodejs/未命名.md",
-    "学习/1.md",
-    "学习/2.md",
-    "学习/3.md",
-    "学习/未命名.md"
+    "css/未命名.md"
   ]
 }
