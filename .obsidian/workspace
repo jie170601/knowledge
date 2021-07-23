@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pulsar.md",
-            "mode": "source"
+            "file": "消息队列/rabbitmq.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pulsar.md",
+                "file": "消息队列/rabbitmq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "ff0aeb01a2bc10c5",
   "lastOpenFiles": [
+    "消息队列/rabbitmq.md",
+    "rocketmq.md",
     "未命名.md",
     "yarn.md",
     "redis/分布式锁.md",
@@ -95,8 +97,6 @@
     "数据库/锁/行级锁.md",
     "多线程/未命名.md",
     "数据库/锁/未命名.md",
-    "多线程/线程安全.md",
-    "java/未命名.md",
-    "学习方法论/语言学习.md"
+    "多线程/线程安全.md"
   ]
 }
