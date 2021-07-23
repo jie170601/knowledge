@@ -89,14 +89,14 @@
   "active": "ff0aeb01a2bc10c5",
   "lastOpenFiles": [
     "消息队列/rabbitmq.md",
-    "rocketmq.md",
     "未命名.md",
+    "名词概念/未命名.md",
+    "rocketmq.md",
     "yarn.md",
     "redis/分布式锁.md",
     "redis/未命名.md",
     "数据库/锁/行级锁.md",
     "多线程/未命名.md",
-    "数据库/锁/未命名.md",
-    "多线程/线程安全.md"
+    "数据库/锁/未命名.md"
   ]
 }

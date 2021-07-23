@@ -38,3 +38,6 @@ erlang语言开发，实现了amqp
 
 # Queue
 消息队列，存储消息的队列
+
+# 消息幂等
+rabbitmq实现消息[[幂等]]的方式，rabbitmq不支持，[[activemq]]可以[[activemq#消息去重|消息去重]]
