@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "消息队列/rabbitmq.md",
-            "mode": "preview"
+            "file": "八股文/java.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "消息队列/rabbitmq.md",
+                "file": "八股文/java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "ff0aeb01a2bc10c5",
   "lastOpenFiles": [
+    "八股文/未命名.md",
     "消息队列/rabbitmq.md",
     "未命名.md",
     "名词概念/未命名.md",
@@ -96,7 +97,6 @@
     "redis/分布式锁.md",
     "redis/未命名.md",
     "数据库/锁/行级锁.md",
-    "多线程/未命名.md",
-    "数据库/锁/未命名.md"
+    "多线程/未命名.md"
   ]
 }
